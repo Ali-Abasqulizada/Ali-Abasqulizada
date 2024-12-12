@@ -26,8 +26,8 @@
 
 <h2 align="left">GitHub Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Abasqulizada&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abasqulizada&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <h2 align="left">Contact Me</h2>
